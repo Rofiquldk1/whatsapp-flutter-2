@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060042085182",
+    "project_id": "whatsapp-83dab",
+    "storage_bucket": "whatsapp-83dab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060042085182:android:cb615573d248fc2da2526f",
+        "android_client_info": {
+          "package_name": "com.example.flutterwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060042085182-cm0dca30q8mp171o7sguesjjo17lmc27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD27lTh16fFOJ6w6tQMFO-mW2havUcvwMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060042085182-cm0dca30q8mp171o7sguesjjo17lmc27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
